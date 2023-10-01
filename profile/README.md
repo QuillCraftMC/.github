@@ -1,5 +1,5 @@
 # QuillCraft - A Minecraft Server🎮
-## Welcome to QuillCraft Organization! We're a passionate team of gamers and Minecraft enthusiasts dedicated to creating and sharing exciting content on Minecraft. If you are a developpeur and you love Minecraft you are at the great place.
+Welcome to QuillCraft Organization! We're a passionate team of gamers and Minecraft enthusiasts dedicated to creating and sharing exciting content on Minecraft. If you are a developpeur and you love Minecraft you are at the great place.
 
 ### 🙋‍♀️ A Short Introduction
 At QuillCraft, we're all about celebrating the creativity and endless possibilities that Minecraft offers. We produce a wide range of content. Our goal is to inspire and entertain Minecraft fans while helping them become better players.
