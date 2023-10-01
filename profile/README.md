@@ -4,16 +4,14 @@
 ### 🙋‍♀️ A Short Introduction
 At QuillCraft, we're all about celebrating the creativity and endless possibilities that Minecraft offers. We produce a wide range of content. Our goal is to inspire and entertain Minecraft fans while helping them become better players.
 
-### 🌈 Contribution Guidelines
-We love to collaborate with the Minecraft community! If you're interested in getting involved with QuillCraft, here's how you can contribute:
+### 🌈 Contribution guidelines
+We love collaborating with the Minecraft community! If you'd like to get involved with QuillCraft, here's how you can contribute.
 
-Content Creation: If you're passionate about Minecraft and enjoy creating content, feel free to reach out to us. We're always open to collaborations.
+Content creation: If you're passionate about Minecraft and enjoy creating content, please get in touch. We're always open to collaborations.
 
-Feedback and Suggestions: Have ideas for our content or ways to improve? We'd love to hear from you! Submit your feedback and suggestions through our email.
+Comments and suggestions: Do you have ideas for our content or ways of improving it? We'd love to hear from you! Send us your comments and suggestions via our e-mail address: contact.quillcraft@gmail.com.
 
-Spread the Word: Help us grow by sharing our content with fellow Minecraft enthusiasts. Follow us on social media, subscribe to our YouTube channel, Twitter Account, and join the Discord.
-
-Contact Us: Have questions, ideas, or want to collaborate? Feel free to send us an email at contact.quillcraft@gmail.com.
+Spread the word: help us grow by sharing our content with other Minecraft enthusiasts. Follow us on social media, subscribe to our YouTube channel, our Twitter account and join the Discord.
 
 ### 🍿 Fun Facts
 This project was launched thanks to COVID-19, and would not have developed so well if a well-known French player hadn't cheated on Minecraft.
